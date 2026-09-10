@@ -16,3 +16,5 @@ that it may be used freely by anyone and is not exclusively patentable by
 any party, including the author.
 
 See `conception-record-homogeneous-capability-extension.md` for the claim.
+
+Made public: 2026-09-10
